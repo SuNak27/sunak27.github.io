@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/message",
+      "destination": "https://ngl.link/su.nak27",
+      "permanent": true
+    }
+  ]
+}
